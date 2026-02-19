@@ -9,7 +9,7 @@
 
 ### Frontmatter
 - [ ] `category` is one of: `ux`, `ui`, `design-systems`, `motion`, `accessibility`, `product`, `research`, `strategy`
-- [ ] `type` is one of: `concept`, `methodology`, `principle`, `pattern`, `metric`, `heuristic`, `tool`, `format`, `role`
+- [ ] `type` is one of: `concept`, `methodology`, `principle`, `pattern`, `framework`, `tool`
 - [ ] `tags` is a YAML list (e.g. `[research, testing]`)
 
 ### Content

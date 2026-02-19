@@ -13,7 +13,7 @@ assignees: ""
 <!-- Pick one: ux / ui / design-systems / motion / accessibility / product / research / strategy -->
 
 ## Type
-<!-- Pick one: concept / methodology / principle / pattern / metric / heuristic / tool / format / role -->
+<!-- Pick one: concept / methodology / principle / pattern / framework / tool -->
 
 ## Tags
 <!-- Optional: one or more tags that describe the term, e.g. research, tokens, typography -->
