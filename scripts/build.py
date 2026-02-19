@@ -69,7 +69,7 @@ def parse_dos_donts(section_text):
         stripped = line.strip()
         if re.match(r"\*\*Do.s\*\*", stripped, re.IGNORECASE):
             current = "dos"
-        elif re.match(r"\*\*Don.t\*\*", stripped, re.IGNORECASE):
+        elif re.match(r"\*\*Don.ts?\*\*", stripped, re.IGNORECASE):
             current = "donts"
         elif stripped.startswith("- ") and current == "dos":
             dos.append(stripped[2:].strip())
@@ -143,6 +143,26 @@ def build_md(terms):
             parts.append(f" | **Tags:** {', '.join(term['tags'])}")
         parts.append("\n\n")
         parts.append(f"{term['definition']}\n")
+
+        if term["examples"]:
+            parts.append(f"\n**Examples**\n{term['examples']}\n")
+
+        if term["dos"] or term["donts"]:
+            parts.append("\n**Do's and Don'ts**\n")
+            if term["dos"]:
+                parts.append("\n*Do's*\n")
+                for item in term["dos"]:
+                    parts.append(f"- {item}\n")
+            if term["donts"]:
+                parts.append("\n*Don'ts*\n")
+                for item in term["donts"]:
+                    parts.append(f"- {item}\n")
+
+        if term["references"]:
+            parts.append("\n**References**\n")
+            for ref in term["references"]:
+                parts.append(f"- {ref}\n")
+
     return "".join(parts)
 
 
