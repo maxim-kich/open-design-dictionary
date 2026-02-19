@@ -1,0 +1,2564 @@
+[
+  {
+    "name": "A/B Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A quantitative method that compares two versions of a design by randomly showing each version to users and measuring which performs better on specific metrics. A/B testing provides statistical evidence for design decisions by measuring actual behavior."
+  },
+  {
+    "name": "Accessibility",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Inclusive design enabling users with disabilities to use digital interfaces equally."
+  },
+  {
+    "name": "Accessibility Audit",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A systematic evaluation of a product's compliance with accessibility standards (WCAG) and usability for people with disabilities. Accessibility audits use automated tools, manual testing, and assistive technology to identify barriers and ensure inclusive design."
+  },
+  {
+    "name": "Accessibility Documentation",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Guidelines ensuring WCAG compliance in design deliverables."
+  },
+  {
+    "name": "Accessibility Personas",
+    "category": "ux",
+    "type": "tool",
+    "definition": "User archetypes with specific disabilities."
+  },
+  {
+    "name": "Accessibility Testing",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Screen reader keyboard WCAG compliance validation."
+  },
+  {
+    "name": "Accessibility Tree",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Browser DOM representation for assistive technology."
+  },
+  {
+    "name": "Accessible Color Pairing",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "A method for systematically identifying and documenting color combinations that meet accessibility contrast requirements. Pairing involves testing foreground colors against multiple backgrounds to create a matrix of compliant combinations for text, icons, and interactive elements."
+  },
+  {
+    "name": "Acquisition Cost (CAC)",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Cost acquiring single paying customer."
+  },
+  {
+    "name": "Active State",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Visual indication during interaction (button pressed, link activating)."
+  },
+  {
+    "name": "Affinity Diagramming",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A collaborative method for organizing large amounts of qualitative data by grouping related observations, ideas, or insights into clusters. Affinity diagramming synthesizes research findings into patterns and reveals relationships between data points."
+  },
+  {
+    "name": "Affordance",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Visual cues suggesting possible interactions (raised button, pointer cursor, icon meaning)."
+  },
+  {
+    "name": "AI Design Assist",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Machine learning accelerates design workflow."
+  },
+  {
+    "name": "Alignment Principle",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Consistent positioning creates visual order."
+  },
+  {
+    "name": "Analogy Brainstorming",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Apply solutions from unrelated domains to current problem."
+  },
+  {
+    "name": "Animation Frame Budget",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Frame rendering performance target for smooth motion."
+  },
+  {
+    "name": "App Clip",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Lightweight iOS app experience no download."
+  },
+  {
+    "name": "App Gesture Back",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Edge swipe returns to previous screen."
+  },
+  {
+    "name": "App Icon Grid",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Home screen icon arrangement and spacing."
+  },
+  {
+    "name": "App State Restoration",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Previous session state reload on app relaunch."
+  },
+  {
+    "name": "App Store Screenshot",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Marketing visuals for app store product pages."
+  },
+  {
+    "name": "ARIA",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Accessible Rich Internet Applications - attributes for dynamic content."
+  },
+  {
+    "name": "ARIA Live Regions",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Announce dynamic content changes screen readers."
+  },
+  {
+    "name": "Artistic Fonts",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Highly stylized, decorative typefaces designed for visual impact and expression. Artistic fonts are used sparingly for headlines, branding, or special occasions to create distinctive visual statements."
+  },
+  {
+    "name": "Asset Sheet",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Organized collection of production-ready design files and specifications."
+  },
+  {
+    "name": "Assumption Mapping",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Risk-prioritize untested product hypotheses."
+  },
+  {
+    "name": "Async Design Review",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Asynchronous documented feedback system."
+  },
+  {
+    "name": "Atomic Design",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Methodology organizing UI components into five hierarchical levels: atoms, molecules, organisms, templates, and pages for scalable systems."
+  },
+  {
+    "name": "Atomic Design Workflow",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Atoms Molecules Organisms Templates Pages build order."
+  },
+  {
+    "name": "Backlog Refinement",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Prioritization grooming 1-2 weeks ahead."
+  },
+  {
+    "name": "Beta Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Releasing a product or feature to a limited group of real users in production environment before full launch. Beta testing identifies issues, gathers feedback, and validates performance with actual usage patterns and data."
+  },
+  {
+    "name": "Bottom Navigation",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Fixed bottom bar with 4-5 primary destinations (common in mobile apps)."
+  },
+  {
+    "name": "Bounce Rate",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Percentage single-page sessions without interaction."
+  },
+  {
+    "name": "Brainstorming",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "A group creativity technique for generating a large number of ideas in a short time by encouraging free thinking and deferring judgment. Brainstorming leverages diverse perspectives to explore solution spaces broadly before evaluating ideas."
+  },
+  {
+    "name": "Brainwriting 6-3-5",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Six people write 3 ideas in 5 minutes then rotate papers."
+  },
+  {
+    "name": "Brand Guidelines",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Rules maintaining visual identity across touchpoints."
+  },
+  {
+    "name": "Breadcrumb Navigation",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Shows current location and path from home (Home > Category > Product)."
+  },
+  {
+    "name": "Breadcrumb Trail",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Hierarchical path showing current location (Home > Category > Subcategory)."
+  },
+  {
+    "name": "Browser Support Matrix",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Specific browsers and versions officially supported by website."
+  },
+  {
+    "name": "Build-Measure-Learn",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "MVP feedback loop continuous product learning."
+  },
+  {
+    "name": "Business Dashboard",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Multi-chart display of key business metrics on single performance overview."
+  },
+  {
+    "name": "Card Sorting",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A research method where participants organize topics or content into categories that make sense to them. Card sorting reveals how users mentally model information and helps inform information architecture and navigation structure."
+  },
+  {
+    "name": "Cascade Layers",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Explicit CSS cascade control priority."
+  },
+  {
+    "name": "Chart Hover Tooltip",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Pop-up panel shows precise values and context on data point interaction."
+  },
+  {
+    "name": "Churn Rate",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Percentage users abandoning product over time period."
+  },
+  {
+    "name": "Cognitive Load",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Mental effort required to understand/use interface."
+  },
+  {
+    "name": "Cognitive Walkthrough",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "An expert evaluation method that assesses how easy an interface is to learn by walking through tasks from a new user's perspective. Cognitive walkthrough focuses on learnability and whether users can understand what to do without training."
+  },
+  {
+    "name": "Cohort Retention Curve",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Retention patterns by user acquisition group."
+  },
+  {
+    "name": "Color Blindness Simulation",
+    "category": "ui",
+    "type": "tool",
+    "definition": "A testing method that simulates how designs appear to users with different types of color vision deficiency. Common simulations include protanopia (red-blind), deuteranopia (green-blind), tritanopia (blue-blind), and achromatopsia (complete color blindness), helping identify problematic color dependencies."
+  },
+  {
+    "name": "Color Contrast Testing",
+    "category": "ui",
+    "type": "tool",
+    "definition": "A method for verifying that color combinations meet accessibility standards for readability. Testing measures the luminance ratio between foreground and background colors against WCAG thresholds: 4.5:1 for normal text (AA), 3:1 for large text (AA), and 7:1 for enhanced contrast (AAA)."
+  },
+  {
+    "name": "Color Extraction",
+    "category": "ui",
+    "type": "tool",
+    "definition": "A method for deriving color palettes from existing visual sources such as photographs, brand materials, or artwork. Extraction identifies dominant, secondary, and accent colors from an image to create cohesive palettes grounded in real-world references."
+  },
+  {
+    "name": "Color Overlay Testing",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "A method for verifying color readability and visual hierarchy when UI elements are layered with transparency or overlays. Testing ensures that text, icons, and interactive elements remain legible on semi-transparent backgrounds, modals, scrims, and overlapping surfaces."
+  },
+  {
+    "name": "Color Proportion Rule",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "A color distribution guideline that suggests using a dominant color for 60% of the design, a secondary color for 30%, and an accent color for 10%. This ratio creates visual balance and hierarchy while preventing color overload."
+  },
+  {
+    "name": "Color Scale Generation",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "A method for creating systematic tonal variations of a base color, typically producing a scale from light to dark (e.g., 50, 100, 200... 900). Color scales provide consistent options for different UI states, backgrounds, and text while maintaining color harmony."
+  },
+  {
+    "name": "Color Schemes",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "A structured method for selecting harmonious color combinations based on their relationships on the color wheel. Common schemes include complementary (opposite colors), analogous (adjacent colors), triadic (three equidistant colors), and split-complementary (one color plus two adjacent to its complement)."
+  },
+  {
+    "name": "Color Spaces",
+    "category": "ui",
+    "type": "tool",
+    "definition": "A color space is a mathematical model that defines how colors are represented as numerical values. Different color spaces serve different purposes: RGB for screens, CMYK for print, HSL/HSB for intuitive adjustments, and LAB/LCH for perceptually uniform color work."
+  },
+  {
+    "name": "Color Tokens",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "A systematic approach to organizing colors in design systems using hierarchical abstraction levels: primitive tokens (raw color values), semantic tokens (purpose-based names like \"text-primary\"), and component tokens (context-specific like \"button-background\"). This structure enables consistent theming and maintainability."
+  },
+  {
+    "name": "Column Chart",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Vertical bars compare category values side-by-side for easy magnitude comparison."
+  },
+  {
+    "name": "Comparison Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A research method where participants evaluate multiple design alternatives side-by-side to determine preferences and relative strengths. Comparison testing helps teams make decisions between competing approaches by understanding user reasoning."
+  },
+  {
+    "name": "Competitive Analysis",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Systematic evaluation of competing products, services, or companies to understand their strengths, weaknesses, features, and strategies. Competitive analysis identifies market opportunities, industry standards, and differentiation opportunities."
+  },
+  {
+    "name": "Component Adoption Rate",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Percentage of new designs using approved system components versus custom/ad-hoc implementations, measuring system effectiveness."
+  },
+  {
+    "name": "Component Deprecation",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Structured process for retiring outdated components while maintaining backward compatibility and smooth team transition."
+  },
+  {
+    "name": "Component Documentation",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Specs detailing component anatomy, states, variants, and usage guidelines."
+  },
+  {
+    "name": "Component Library",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Curated collection of reusable UI building blocks (buttons, cards, modals) with defined states, variants, and usage guidelines."
+  },
+  {
+    "name": "Component Promotion Workflow",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Design system approval publishing process."
+  },
+  {
+    "name": "Component Reuse Ratio",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Ratio of total components created to unique component types, where higher ratios indicate better reuse and system efficiency."
+  },
+  {
+    "name": "Component Specs",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Technical details for implementing specific UI components."
+  },
+  {
+    "name": "Component Variants",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Different states or versions of a component (primary/secondary button, large/small size) that maintain consistent behavior and visual language."
+  },
+  {
+    "name": "Concept Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Evaluating an idea, feature, or product concept with users before significant development investment. Concept testing validates assumptions, gauges user interest, and identifies potential issues early when changes are still inexpensive."
+  },
+  {
+    "name": "Consistency Principle",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Same actions produce same results everywhere."
+  },
+  {
+    "name": "Container Queries",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Style components based on container size not viewport."
+  },
+  {
+    "name": "Content Analysis",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A systematic method for analyzing textual, visual, or audio content by categorizing and coding data into themes. Content analysis transforms qualitative information into quantifiable insights through structured examination."
+  },
+  {
+    "name": "Content Facet",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Attribute used to filter content collections."
+  },
+  {
+    "name": "Content Inventory",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Comprehensive list of existing content items and attributes."
+  },
+  {
+    "name": "Content Model",
+    "category": "strategy",
+    "type": "concept",
+    "definition": "Structured definition of content types and their properties."
+  },
+  {
+    "name": "Content Style Guide",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Standards for tone, voice, and writing conventions."
+  },
+  {
+    "name": "Contextual Inquiry",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A qualitative research method combining observation and interview in the user's actual work environment. Researchers observe users performing tasks in their natural context while asking questions to understand their motivations, challenges, and workflows."
+  },
+  {
+    "name": "Continuous Design Process",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Iterative shipping feedback cycles."
+  },
+  {
+    "name": "Continuous Discovery",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "An ongoing research practice where product teams regularly interact with customers to inform decisions and validate assumptions throughout development. Continuous discovery embeds research into weekly routines rather than treating it as separate project phases."
+  },
+  {
+    "name": "Contrast Principle",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Color size differences create emphasis separation."
+  },
+  {
+    "name": "Contribution Docs",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Guidelines for teams extending or customizing the system."
+  },
+  {
+    "name": "Contribution Review Process",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Peer review merge standards."
+  },
+  {
+    "name": "Conversion Rate",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Percentage users completing desired action (purchase signup)."
+  },
+  {
+    "name": "Core Web Vitals",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Google metrics measuring loading interactivity visual stability."
+  },
+  {
+    "name": "Cost of Delay",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "A prioritization approach that quantifies the economic impact of time by calculating the value lost when a decision or initiative is delayed. Cost of Delay helps teams make urgent vs important trade-offs based on financial impact."
+  },
+  {
+    "name": "Crazy 8s Timed Sketch",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Fold paper into 8 sections sketch one idea per minute."
+  },
+  {
+    "name": "Critical CSS Extraction",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Extract above-fold styles for immediate rendering."
+  },
+  {
+    "name": "Cross-Browser Testing",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Functionality consistency across Chrome Firefox Safari Edge."
+  },
+  {
+    "name": "Cross-chart Filter",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Clicking one chart filters all connected charts simultaneously."
+  },
+  {
+    "name": "Cross-Device Testing",
+    "category": "ui",
+    "type": "tool",
+    "definition": "iPhone Android tablet desktop behavior consistency."
+  },
+  {
+    "name": "Cross-Functional Workshop",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Mixed-discipline collaborative sessions."
+  },
+  {
+    "name": "CSS Clamp Function",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Dynamic value between min max based on viewport."
+  },
+  {
+    "name": "CSS Custom Properties",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Dynamic CSS variables for theming consistency."
+  },
+  {
+    "name": "CSS Feature Queries",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Conditional CSS based on browser feature support."
+  },
+  {
+    "name": "CSS Scroll Snap",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Snaps scroll container to specific points."
+  },
+  {
+    "name": "CSS Subgrid",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Child grid inherits parent grid tracks."
+  },
+  {
+    "name": "Customer Lifetime Value (LTV)",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Predicted net profit from entire customer relationship."
+  },
+  {
+    "name": "DACI Decision Roles",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "Driver Approver Contributor Informed responsibilities."
+  },
+  {
+    "name": "Daily Active Users (DAU)",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Unique users using product per calendar day."
+  },
+  {
+    "name": "Daily Design Standup",
+    "category": "management",
+    "type": "methodology",
+    "definition": "15min team synchronization ritual."
+  },
+  {
+    "name": "Dark Mode Color Mapping",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "A methodology for systematically adapting a light mode color palette to dark mode. Mapping defines how each color transforms: backgrounds invert from light to dark, text flips from dark to light, and accent colors adjust saturation and lightness to maintain visibility and reduce eye strain."
+  },
+  {
+    "name": "Dark Mode Guide",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Specifications for implementing theme variations."
+  },
+  {
+    "name": "Data Heat Grid",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Color intensity matrix shows value density across two categorical axes."
+  },
+  {
+    "name": "Data Point Drilldown",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Clicking aggregate data reveals component-level detail."
+  },
+  {
+    "name": "Data Visualization Color Scales",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "A methodology for selecting appropriate color scales based on data type. Sequential scales (light to dark) show ordered data, diverging scales (two hues from a neutral center) show deviation from a midpoint, and categorical scales (distinct hues) differentiate unrelated categories."
+  },
+  {
+    "name": "Dead Click Analysis",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Clicks non-functional decorative elements."
+  },
+  {
+    "name": "Decorative Chart Elements",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Non-data ink elements distract from data message and reduce clarity."
+  },
+  {
+    "name": "Deep Linking Scheme",
+    "category": "ui",
+    "type": "tool",
+    "definition": "URL schemes opening specific app screens."
+  },
+  {
+    "name": "Default State",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Normal resting appearance of interactive element before any user interaction."
+  },
+  {
+    "name": "Definition of Done",
+    "category": "management",
+    "type": "concept",
+    "definition": "Shared quality criteria story completion."
+  },
+  {
+    "name": "Design Brief Template",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Project scope objectives constraints success criteria."
+  },
+  {
+    "name": "Design Career Ladder",
+    "category": "management",
+    "type": "framework",
+    "definition": "Progression framework skill levels responsibilities."
+  },
+  {
+    "name": "Design Consistency Score",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Uniformity measurement across product surfaces."
+  },
+  {
+    "name": "Design Critique Session",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Structured peer feedback on in-progress design work."
+  },
+  {
+    "name": "Design Debt Score",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Quantitative measure of divergence from design system standards, calculated from component usage, token adherence, and consistency violations."
+  },
+  {
+    "name": "Design Decision Log",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Records explaining rationale behind key design choices."
+  },
+  {
+    "name": "Design Documentation",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Artifacts recording design processes, decisions, and deliverables for team alignment and consistency."
+  },
+  {
+    "name": "Design Governance",
+    "category": "management",
+    "type": "framework",
+    "definition": "The framework of processes, policies, and decision-making structures that guide design work and ensure consistency across an organization. Design governance defines who makes decisions, how standards are maintained, and how design quality is upheld."
+  },
+  {
+    "name": "Design Guild Meetings",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Cross-team community of practice sharing."
+  },
+  {
+    "name": "Design Handoff",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Package transferring designs to developers with specs, assets, and code snippets."
+  },
+  {
+    "name": "Design Office Hours",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Scheduled help troubleshooting availability."
+  },
+  {
+    "name": "Design Operations",
+    "category": "management",
+    "type": "concept",
+    "definition": "The orchestration of people, processes, and tools to enable design teams to create value more effectively. Also called DesignOps, it focuses on operational efficiency, workflow optimization, and removing blockers for designers."
+  },
+  {
+    "name": "Design Principles Definition",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Establishing clear, actionable guidelines that express the values and priorities guiding design decisions for a product or team. Design principles help teams make consistent choices and resolve conflicts during the design process."
+  },
+  {
+    "name": "Design Specification",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Detailed blueprint covering layouts, interactions, and responsive behaviors."
+  },
+  {
+    "name": "Design Sprint Process",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "5-day collaborative problem solving prototype testing."
+  },
+  {
+    "name": "Design System",
+    "category": "ui",
+    "type": "framework",
+    "definition": "A centralized repository of reusable components, patterns, and guidelines that ensures visual and functional consistency across products and teams."
+  },
+  {
+    "name": "Design System Audit",
+    "category": "management",
+    "type": "methodology",
+    "definition": "A systematic review of a design system and its implementation across products to identify inconsistencies, unused components, and improvement opportunities. Design system audits assess health and alignment between system and products."
+  },
+  {
+    "name": "Design System Contribution Rate",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Percentage of design system updates contributed by product designers versus dedicated system team, indicating healthy adoption."
+  },
+  {
+    "name": "Design System Maintenance",
+    "category": "management",
+    "type": "methodology",
+    "definition": "The ongoing process of updating, improving, and supporting a design system to keep it relevant, usable, and aligned with product needs. Maintenance includes component updates, documentation improvements, version management, user support, and governance activities."
+  },
+  {
+    "name": "Design Systems First",
+    "category": "strategy",
+    "type": "principle",
+    "definition": "Build reusable components before custom work."
+  },
+  {
+    "name": "Design Token Migration",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Systematic process of updating token references across design files, codebases, and documentation during system evolution."
+  },
+  {
+    "name": "Design Token Semantics",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Meaningful names describing design intent not values."
+  },
+  {
+    "name": "Design Token Synchronization Pipeline",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Design-code token consistency automation."
+  },
+  {
+    "name": "Design Token Usage Coverage",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Percentage of UI elements referencing design tokens versus hardcoded values, indicating system maturity and maintainability."
+  },
+  {
+    "name": "Design Tokens",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Primitive values (colors, sizes, spacing) stored as variables to maintain consistency across design tools, code, and platforms."
+  },
+  {
+    "name": "Developer Satisfaction (DSAT)",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Survey-based metric measuring developer experience with design system quality, documentation, and implementation efficiency."
+  },
+  {
+    "name": "Diary Studies",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A longitudinal research method where participants self-report their experiences, behaviors, and activities over an extended period. Diary studies capture context and patterns that emerge over time in users' natural environments."
+  },
+  {
+    "name": "Disabled State",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Visual indication of unavailable interaction (grayed out, reduced opacity)."
+  },
+  {
+    "name": "Discovery Sprint",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Week-long intensive problem validation research."
+  },
+  {
+    "name": "Documentation Audit",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Review assessing completeness and quality of design documentation."
+  },
+  {
+    "name": "Documentation Engagement",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Time spent views on system documentation."
+  },
+  {
+    "name": "Dogfood Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Internal team uses own product before external launch."
+  },
+  {
+    "name": "Dot Voting Prioritization",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Team members allocate limited votes to prioritize ideas."
+  },
+  {
+    "name": "Double Diamond Process",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Discover Define Develop Deliver divergent convergent design phases."
+  },
+  {
+    "name": "Dropdown Menu",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Menu expanding downward from trigger showing related options."
+  },
+  {
+    "name": "Dynamic Date Range",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Slider controls instantly update all charts by selected time period."
+  },
+  {
+    "name": "Dynamic Type Scaling",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Text resizes with system accessibility settings."
+  },
+  {
+    "name": "Elevator Pitch Framework",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "30-second compelling value proposition."
+  },
+  {
+    "name": "Empathy Mapping",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A collaborative visualization tool that captures what users say, think, feel, and do to build shared understanding of user needs and behaviors. Empathy maps synthesize research observations into a simple, digestible format organized into four quadrants."
+  },
+  {
+    "name": "Empty State Design",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Meaningful content guidance when no data exists."
+  },
+  {
+    "name": "EN 301 549",
+    "category": "ui",
+    "type": "framework",
+    "definition": "EU harmonized ICT accessibility standard incorporating WCAG 2.1 AA + mobile/hardware."
+  },
+  {
+    "name": "Error Prevention",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Design eliminates common user mistakes."
+  },
+  {
+    "name": "Error Rate Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Frequency severity of user mistakes during tasks."
+  },
+  {
+    "name": "Error Recovery Path",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Easy undo back clear fix mechanisms."
+  },
+  {
+    "name": "Ethnographic Research",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Immersive study natural environment context."
+  },
+  {
+    "name": "European Accessibility Act (EAA)",
+    "category": "ui",
+    "type": "framework",
+    "definition": "EU law mandating accessibility for digital products/services (effective June 2025)."
+  },
+  {
+    "name": "Executive Briefing Deck",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Concise 5-8 slide leadership communication."
+  },
+  {
+    "name": "Executive Summary Chart",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Single chart conveys business situation instantly to leadership."
+  },
+  {
+    "name": "Exit Page Analysis",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Where users abandon before completing goals."
+  },
+  {
+    "name": "F-Pattern",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Content-heavy scan (top horizontal → left vertical → horizontals) for maximum visibility."
+  },
+  {
+    "name": "Faceted Navigation",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Multi-attribute filtering of content results."
+  },
+  {
+    "name": "Fake Door Test",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A validation technique that measures interest in a feature by adding an entry point for it in the interface before building it. Also called Smoke Test, fake door tests use click-through rates to assess demand and prevent wasted effort on unwanted features."
+  },
+  {
+    "name": "Feature Adoption Rate",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Percentage users using specific new feature."
+  },
+  {
+    "name": "Feedback Loops",
+    "category": "management",
+    "type": "concept",
+    "definition": "Systematic mechanisms for collecting, analyzing, and acting on information to drive continuous improvement. Feedback loops create cycles where outputs inform future inputs, enabling teams to learn and adapt iteratively."
+  },
+  {
+    "name": "Feedback Principle",
+    "category": "ui",
+    "type": "principle",
+    "definition": "System confirms actions with immediate visible response."
+  },
+  {
+    "name": "Field Studies",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Research conducted in the user's natural environment by observing behavior and interactions in real-world contexts. Also called ethnographic research, field studies reveal how users actually behave rather than how they say they behave."
+  },
+  {
+    "name": "Figma Library",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Shared Figma file containing master components, styles, and assets synchronized across design team files for consistency."
+  },
+  {
+    "name": "Filter Panel",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Collapsible panel containing facet controls."
+  },
+  {
+    "name": "First-Click Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Where users click first reveals IA effectiveness."
+  },
+  {
+    "name": "Fitts's Law",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Time to reach target inversely proportional to size, directly proportional to distance."
+  },
+  {
+    "name": "Five-Second Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Brief exposure tests instant comprehension memory."
+  },
+  {
+    "name": "Flexbox Container",
+    "category": "ui",
+    "type": "tool",
+    "definition": "One-dimensional layout for aligning distributing items."
+  },
+  {
+    "name": "Floating Action Button",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Prominent circular button for primary app action."
+  },
+  {
+    "name": "Focal Point",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Single dominant element capturing initial attention using multiple techniques."
+  },
+  {
+    "name": "Focus Groups",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A moderated group discussion with 6-10 participants to explore attitudes, perceptions, and opinions about a product, service, or concept. Focus groups gather diverse perspectives through facilitated conversation and group dynamics."
+  },
+  {
+    "name": "Focus Indicator",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Visible outline showing current keyboard focus location."
+  },
+  {
+    "name": "Focus Management",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Logical predictable keyboard focus order."
+  },
+  {
+    "name": "Focus Order",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Logical tab sequence matching visual reading order."
+  },
+  {
+    "name": "Focus State",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Keyboard navigation highlight for accessibility and screen readers."
+  },
+  {
+    "name": "Font Ascender",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Part of lowercase letters that extends above the x-height line (e.g., 'h', 'k', 'l', 'b', 'd'). Ascenders contribute to letter differentiation and rhythm in text blocks."
+  },
+  {
+    "name": "Font Descender",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Part of lowercase letters that extends below the baseline (e.g., 'g', 'j', 'p', 'q', 'y'). Descenders require adequate vertical space and affect line height calculations in UI design."
+  },
+  {
+    "name": "Font Display Swap",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Show fallback font immediately while custom loads."
+  },
+  {
+    "name": "Font Hierarchy",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Use of size, weight, color, and style to denote content importance and guide user focus. Font hierarchy creates visual structure that helps users scan and understand content priority."
+  },
+  {
+    "name": "Font Kerning",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Adjustment of space between individual letter pairs to improve visual balance and readability. Kerning compensates for the irregular shapes of letters, making text appear more cohesive."
+  },
+  {
+    "name": "Font Leading",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Vertical space between lines of text (line height). Named after the lead strips used in traditional typography, leading directly impacts readability and visual rhythm in text blocks."
+  },
+  {
+    "name": "Font Tracking",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Uniform adjustment of space between all letters in a word or line. Unlike kerning, tracking applies the same spacing value across an entire text block for consistent letter density."
+  },
+  {
+    "name": "Font Weight",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Thickness of characters in a font (e.g., Light, Regular, Bold, Black). Font weight creates visual emphasis, hierarchy, and contrast while maintaining a consistent typeface family."
+  },
+  {
+    "name": "Font X-Height",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Height of lowercase letters (excluding ascenders and descenders) in a font. X-height significantly influences perceived font size and legibility at small sizes, even when point size remains constant."
+  },
+  {
+    "name": "Footer Navigation",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Bottom-of-page links for secondary navigation, legal, and utility content."
+  },
+  {
+    "name": "Frequency Histogram",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Adjacent bars show distribution frequency of continuous numeric data."
+  },
+  {
+    "name": "Funnel Drop-off Analysis",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Drop-off rates at each conversion step."
+  },
+  {
+    "name": "Gamestorming",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "A set of facilitation techniques that use game mechanics and playful activities to enhance ideation, problem-solving, and collaboration. Gamestorming structures creative sessions with clear rules, goals, and time constraints to increase engagement and output."
+  },
+  {
+    "name": "Gestalt Closure",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Incomplete shapes recognized as whole when context suggests completion."
+  },
+  {
+    "name": "Gestalt Common Fate",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Elements moving same direction perceived as belonging together."
+  },
+  {
+    "name": "Gestalt Common Region",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Elements within same bounded area automatically grouped together."
+  },
+  {
+    "name": "Gestalt Connectedness",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Connected elements (lines/shapes) perceived as single continuous unit."
+  },
+  {
+    "name": "Gestalt Continuity",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Eye follows lines/shapes in smooth, continuous paths rather than abrupt changes."
+  },
+  {
+    "name": "Gestalt Enclosure",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Containers/borders/backgrounds defining content chunks and hierarchy levels."
+  },
+  {
+    "name": "Gestalt Figure-Ground",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Distinguishing main subject (figure) from background (ground) through contrast."
+  },
+  {
+    "name": "Gestalt Proximity",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Close elements perceived as grouped; spacing defines relationships and creates visual chunks."
+  },
+  {
+    "name": "Gestalt Prägnanz",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Brain simplifies complex forms to simplest, most stable interpretation."
+  },
+  {
+    "name": "Gestalt Similarity",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Similar-looking elements grouped visually regardless of position through shared style/properties."
+  },
+  {
+    "name": "Gestalt Symmetry",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Symmetrical elements create balance, order, and visual stability."
+  },
+  {
+    "name": "Gesture",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Multi-touch input patterns (pinch, swipe, long-press, double-tap)."
+  },
+  {
+    "name": "Glyph",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Individual character or symbol in a font, including letters, numbers, punctuation, and special symbols. Each glyph is a unique visual unit designed to work within a typeface system."
+  },
+  {
+    "name": "Golden Ratio",
+    "category": "ui",
+    "type": "principle",
+    "definition": "1:1.618 proportion creates natural visual harmony."
+  },
+  {
+    "name": "Grid Alignment",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Grid positioning creating visual flow, rhythm, and consistent relationships."
+  },
+  {
+    "name": "Guerrilla Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Quick informal tests recruiting anyone available nearby."
+  },
+  {
+    "name": "Hamburger Menu",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Three-line icon expanding to reveal navigation drawer/menu (≡)."
+  },
+  {
+    "name": "Haptic Feedback Types",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Distinct vibration patterns for different interactions."
+  },
+  {
+    "name": "Heatmap Analysis",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Visual representation of user click scroll attention patterns."
+  },
+  {
+    "name": "Heuristic Evaluation",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "An expert review method where evaluators examine an interface against established usability principles (heuristics) to identify usability problems. Heuristic evaluation is quick, inexpensive, and effective for finding issues without involving users."
+  },
+  {
+    "name": "Hick's Law",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Decision time increases logarithmically with number of choices."
+  },
+  {
+    "name": "Hiring Rubric",
+    "category": "management",
+    "type": "tool",
+    "definition": "Structured evaluation criteria scoring system."
+  },
+  {
+    "name": "Hover State",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Visual change on mouse-over indicating interactivity and suggesting further action."
+  },
+  {
+    "name": "How Might We",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "A question format that reframes problems as opportunities for ideation by using \"How might we...\" to open possibilities. HMW questions turn insights and challenges into actionable springboards for generating solutions."
+  },
+  {
+    "name": "Hub-and-Spoke Structure",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Central hub page linking to related content spokes."
+  },
+  {
+    "name": "Hundred Ideas Exercise",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Generate 100 ideas rapidly to push past obvious solutions."
+  },
+  {
+    "name": "Icon Baseline Alignment",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Icons aligned to text baseline for visual rhythm and consistency, ensuring proper vertical alignment with accompanying text."
+  },
+  {
+    "name": "Icon Family",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Icons sharing visual DNA across multiple weights, sizes, and styles (e.g., light, regular, bold) maintaining recognition and consistency."
+  },
+  {
+    "name": "Icon Grid",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Invisible structure (typically 24x24 or 32x32px) ensuring proportional consistency and alignment across all icons in a set."
+  },
+  {
+    "name": "Icon Library",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Curated collection of icons following consistent design system rules, style, weight, and grid specifications for organizational reuse."
+  },
+  {
+    "name": "Icon Scale",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Relative sizing system for icons across UI contexts (16px, 24px, 32px, etc.). Icon scale ensures proportional sizing and maintains visual consistency."
+  },
+  {
+    "name": "Icon Set",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Complete group of icons sharing identical style, weight, grid, and visual characteristics for cohesive interface communication."
+  },
+  {
+    "name": "Icon Style",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Consistent visual language applied to all icons (flat, skeuomorphic, outline, duotone, glyph). Icon style establishes design system coherence and aids user recognition across interface."
+  },
+  {
+    "name": "Icon Weight",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Thickness of strokes or boldness of filled shapes in icons. Icon weight creates visual hierarchy and differentiates icon importance within interface."
+  },
+  {
+    "name": "Ideation Workshop",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Structured creative problem solving session."
+  },
+  {
+    "name": "Infinite Scroll Pagination",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Content loads continuously without page refresh."
+  },
+  {
+    "name": "Information Architecture",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Organization and labeling of content so users can find and understand what they need."
+  },
+  {
+    "name": "Information Hierarchy",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Levels of content importance and relationships."
+  },
+  {
+    "name": "Interaction",
+    "category": "ui",
+    "type": "concept",
+    "definition": "User input triggering system response (click, tap, hover, drag, swipe)."
+  },
+  {
+    "name": "Interaction Cost",
+    "category": "ux",
+    "type": "concept",
+    "definition": "Cognitive physical effort required per action."
+  },
+  {
+    "name": "Interaction Feedback",
+    "category": "ui",
+    "type": "principle",
+    "definition": "System response confirming user action was received (animation, color change, sound)."
+  },
+  {
+    "name": "iOS Human Interface",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Apple design guidelines conventions."
+  },
+  {
+    "name": "ISO 9241-171",
+    "category": "ui",
+    "type": "framework",
+    "definition": "Ergonomics guidance on software accessibility and human-system interaction."
+  },
+  {
+    "name": "Jobs-to-be-Done",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "User hires products for progress in life."
+  },
+  {
+    "name": "Journey Mapping",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A visualization of the process a user goes through to accomplish a goal, showing their actions, thoughts, emotions, and pain points across touchpoints over time. Journey maps synthesize research data to create a shared understanding of user experience and identify improvement opportunities."
+  },
+  {
+    "name": "Kano Model",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "A prioritization framework that categorizes features based on their relationship to customer satisfaction. The Kano Model classifies features as Basic Needs, Performance Needs, or Delighters to help teams understand which features create the most value."
+  },
+  {
+    "name": "Keyboard Navigation",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Tab order and key actions enabling non-mouse interface control."
+  },
+  {
+    "name": "Keyboard Trap Detection",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Focus becomes stuck unable to tab forward/back."
+  },
+  {
+    "name": "KPI Performance Tracker",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Charts designed specifically for business goal metrics and thresholds."
+  },
+  {
+    "name": "Lab Usability Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Controlled environment with eye-tracking specialized equipment."
+  },
+  {
+    "name": "Labeling System",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Rules for naming navigation items, categories, and content."
+  },
+  {
+    "name": "Landing Page Test",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A lean validation method that uses a simple web page to gauge market interest in a product or feature before building it. Landing page tests measure conversion rates to assess demand and collect leads from interested users."
+  },
+  {
+    "name": "Lazy Image Loading",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Images load only when scrolled into viewport."
+  },
+  {
+    "name": "Lean Canvas",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "One-page business model visualization."
+  },
+  {
+    "name": "Lean UX Hypothesis",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "We believe this will result in outcome we'll know success."
+  },
+  {
+    "name": "Learnability",
+    "category": "ux",
+    "type": "principle",
+    "definition": "How quickly new users understand interface."
+  },
+  {
+    "name": "Legend Color Picker",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Interactive legend toggles series visibility and shows values."
+  },
+  {
+    "name": "Ligature",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Special glyph that combines two or more characters into a single unified form for improved visual flow and appearance (e.g., 'fi', 'fl', 'ffi'). Ligatures enhance readability and aesthetics in typography."
+  },
+  {
+    "name": "Line Graph",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Connected points show trends and changes over continuous time periods."
+  },
+  {
+    "name": "Line Length",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Number of characters per line of text. Optimal line length is 45-75 characters (or 8-12 words), balancing readability with scanning ease. Line length significantly impacts reading speed and comprehension."
+  },
+  {
+    "name": "Linear Flow",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Step-by-step sequence where each step has a single next action."
+  },
+  {
+    "name": "Loading State",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Temporary state during processing or data fetching."
+  },
+  {
+    "name": "Logical Properties",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Direction-agnostic CSS (inline-start vs left)."
+  },
+  {
+    "name": "Long Press Context Menu",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Prolonged tap reveals additional options."
+  },
+  {
+    "name": "Lotus Blossom Diagram",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Central idea expands into 8 themes each with 8 sub-ideas."
+  },
+  {
+    "name": "Magic Number",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Product growth efficiency coefficient expansion."
+  },
+  {
+    "name": "Material Design Motion",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Google Android animation system."
+  },
+  {
+    "name": "Mega Menu",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Large dropdown with categorized sub-navigation and thumbnails."
+  },
+  {
+    "name": "Mental Model Mapping",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Document how users conceptualize system structure."
+  },
+  {
+    "name": "Micro Trendline",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Tiny inline line chart showing trend next to summary metric."
+  },
+  {
+    "name": "Micro-interaction",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Small, purposeful animations enhancing feedback and delight."
+  },
+  {
+    "name": "Miller's Law",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Average person holds 7±2 items in working memory."
+  },
+  {
+    "name": "Mind Mapping",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "A visual thinking technique that organizes information hierarchically around a central concept, with related ideas branching outward. Mind mapping helps explore connections between ideas and structure thinking during ideation and problem-solving."
+  },
+  {
+    "name": "Minimal Data Noise",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Removing all non-essential visual elements maximizes data clarity."
+  },
+  {
+    "name": "Monadic Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A research approach where each participant evaluates only one design or concept in isolation, without comparison to alternatives. Monadic testing provides unbiased feedback on each option's absolute merits without comparative context influencing responses."
+  },
+  {
+    "name": "MoSCoW Method",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "A prioritization framework that categorizes requirements or features into four groups: Must have, Should have, Could have, and Won't have. MoSCoW helps teams agree on priorities and manage scope by making trade-offs explicit."
+  },
+  {
+    "name": "Multiple Chart Grid",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Grid of identical charts enables small multiple comparisons."
+  },
+  {
+    "name": "Multivariate Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A quantitative testing method that evaluates multiple variables simultaneously to determine which combination of changes produces the best outcome. Multivariate testing tests all possible combinations of variables to find optimal designs."
+  },
+  {
+    "name": "Native Swipe Gestures",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Left/right swipes trigger list item actions."
+  },
+  {
+    "name": "Navigation Drawer",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Side panel sliding in from edge revealing additional navigation options."
+  },
+  {
+    "name": "Navigation Model",
+    "category": "ux",
+    "type": "concept",
+    "definition": "Structure defining how users move between sections and screens."
+  },
+  {
+    "name": "Net Promoter Score (NPS)",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Single question measuring customer loyalty recommendation."
+  },
+  {
+    "name": "North Star Metric",
+    "category": "strategy",
+    "type": "concept",
+    "definition": "Single metric measuring core product value delivery."
+  },
+  {
+    "name": "Offline-First Architecture",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "App works without internet designed first."
+  },
+  {
+    "name": "OKR Alignment Meeting",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Cross-team objective synchronization discussion."
+  },
+  {
+    "name": "OKR Framework",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "Objectives (inspirational) Key Results (measurable)."
+  },
+  {
+    "name": "Onboarding Process",
+    "category": "management",
+    "type": "methodology",
+    "definition": "New hire first 90 days structured experience."
+  },
+  {
+    "name": "One-on-One Meeting",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Regular manager-direct report sync cadence."
+  },
+  {
+    "name": "Opportunity Interviews",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Customer conversations uncover unmet needs."
+  },
+  {
+    "name": "Opportunity Scoring",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "A prioritization method that identifies opportunities by measuring the gap between how important a need is and how satisfied users currently are. The largest gaps represent the biggest opportunities for improvement."
+  },
+  {
+    "name": "Opportunity Solution Tree",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Visual map connecting outcomes to opportunities to solutions."
+  },
+  {
+    "name": "Override Detection Rate",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Percentage components with local style overrides."
+  },
+  {
+    "name": "Page Load Time",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Time request to interactive ready."
+  },
+  {
+    "name": "Pagination",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Controls for navigating through multiple pages of content."
+  },
+  {
+    "name": "Pair Design Sessions",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Two designers collaborative problem solving."
+  },
+  {
+    "name": "Pareto Principle",
+    "category": "strategy",
+    "type": "principle",
+    "definition": "80% results come from 20% causes (80/20 rule)."
+  },
+  {
+    "name": "Participatory Design",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Users co-create solutions collaborative workshops."
+  },
+  {
+    "name": "Pattern Library",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Catalog of reusable interaction and layout patterns with implementation examples."
+  },
+  {
+    "name": "Peak-End Rule",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Users judge experiences by peak moments and endings."
+  },
+  {
+    "name": "Perceptually Uniform Color Spaces",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Color spaces (LAB, LCH, OKLAB, OKLCH) designed so that equal numerical changes produce equal perceived visual changes. Unlike RGB or HSL, these spaces ensure that a 10-unit lightness change looks the same whether moving from light to mid or mid to dark tones."
+  },
+  {
+    "name": "Performance Budget",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Maximum acceptable thresholds for load time resources."
+  },
+  {
+    "name": "Performance Load Testing",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Speed interactions under network server stress."
+  },
+  {
+    "name": "Performance Review Cycle",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Structured evaluation feedback process."
+  },
+  {
+    "name": "Persona Development",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Creating fictional yet realistic representations of key user segments based on research data. Personas include demographics, behaviors, goals, motivations, and pain points to help teams empathize with and design for specific user types."
+  },
+  {
+    "name": "Pie Slice Chart",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Circular sectors show part-to-whole relationships and proportions."
+  },
+  {
+    "name": "Pinch to Zoom",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Two-finger spread/shrink controls magnification."
+  },
+  {
+    "name": "Polyfill Implementation",
+    "category": "ui",
+    "type": "tool",
+    "definition": "JavaScript shims providing modern APIs to older browsers."
+  },
+  {
+    "name": "Power User Percentage",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Percentage users disproportionate value creation."
+  },
+  {
+    "name": "Pre-mortem Analysis",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Imagine project failed predict prevent risks."
+  },
+  {
+    "name": "Preference Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Users choose preferred design from multiple options."
+  },
+  {
+    "name": "Preload Key Resources",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Fetch critical assets early in page load process."
+  },
+  {
+    "name": "Presentation Canvas",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Single page story structure key messages visuals."
+  },
+  {
+    "name": "Primary Navigation",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Main navigation presenting highest-level site sections and most important destinations."
+  },
+  {
+    "name": "Problem Framing",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "The process of clearly defining and articulating a problem before seeking solutions. Problem framing shapes how teams understand challenges and influences the range of solutions they consider."
+  },
+  {
+    "name": "Problem Restatement",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Reframe problem multiple ways to unlock new solution angles."
+  },
+  {
+    "name": "Product Analytics",
+    "category": "ux",
+    "type": "tool",
+    "definition": "The practice of collecting and analyzing quantitative data about how users interact with a product. Product analytics tools track behavior, usage patterns, funnels, and metrics to inform design and product decisions."
+  },
+  {
+    "name": "Product Roadmap",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Timeline prioritized feature delivery plan."
+  },
+  {
+    "name": "Progressive Disclosure",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Gradually revealing information based on user interaction and need."
+  },
+  {
+    "name": "Progressive Enhancement",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Core functionality first, enhancements layered."
+  },
+  {
+    "name": "Progressive Web App",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Website with native app features (install offline)."
+  },
+  {
+    "name": "Prototype Guide",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Documentation of interactive prototype states, transitions, and behaviors."
+  },
+  {
+    "name": "Prototype Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Evaluating an interactive representation of a design with users to validate functionality, flow, and usability before full development. Prototype testing uses clickable mockups or working prototypes to simulate the final experience."
+  },
+  {
+    "name": "Pull-to-Refresh",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Downward swipe gesture reloads content list."
+  },
+  {
+    "name": "RACI Matrix",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "Responsible Accountable Consulted Informed assignments."
+  },
+  {
+    "name": "Radius Tokens",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Variables defining consistent border radius values for components to create unified visual style across the interface."
+  },
+  {
+    "name": "Rage Click Detection",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Frustrated repeated clicking non-functional areas."
+  },
+  {
+    "name": "Random Word Association",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Use unrelated words to spark unexpected creative connections."
+  },
+  {
+    "name": "Real-time Metrics Board",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Live-updating charts display streaming operational data continuously."
+  },
+  {
+    "name": "Reduced Motion",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Respect user's 'prefers-reduced-motion' OS setting."
+  },
+  {
+    "name": "Reference Grid Overlay",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Light background lines aid precise value reading and alignment."
+  },
+  {
+    "name": "Remote Usability Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Online testing across geographic locations time zones."
+  },
+  {
+    "name": "Research Screener",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Pre-study survey qualifying research participants."
+  },
+  {
+    "name": "Responsive Guidelines",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Breakpoint-specific layout and behavior documentation."
+  },
+  {
+    "name": "Responsive Typography",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Scaling text proportionally using relative units (em, rem, %) across different screen sizes and devices. Responsive typography ensures readability and maintains visual hierarchy from mobile to desktop."
+  },
+  {
+    "name": "Retention Rate",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Percentage users returning after first use (D1 D7 D30)."
+  },
+  {
+    "name": "Retrospectives",
+    "category": "management",
+    "type": "methodology",
+    "definition": "A structured team reflection practice where members review what went well, what didn't, and what to improve for future work. Retrospectives create space for honest discussion and continuous team improvement."
+  },
+  {
+    "name": "Reverse Brainstorming",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Solve opposite problem then invert for actual solutions."
+  },
+  {
+    "name": "RICE Framework",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "A prioritization framework that scores ideas based on four factors: Reach (number of users affected), Impact (effect on individual users), Confidence (certainty of estimates), and Effort (time required). RICE was developed by Intercom's product team to make objective, data-driven prioritization decisions."
+  },
+  {
+    "name": "Roadmap Alignment Workshop",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Stakeholder prioritization consensus building."
+  },
+  {
+    "name": "Rose Thorn Bud Canvas",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Categorize feedback as positives, negatives, and opportunities."
+  },
+  {
+    "name": "Round Robin Ideation",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Sequential idea building where each person adds to previous."
+  },
+  {
+    "name": "Rule of 40",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Growth + profit margin minimum 40% combined."
+  },
+  {
+    "name": "Rule of Thirds",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Canvas thirds create balanced focal points."
+  },
+  {
+    "name": "Safe Area Insets",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Screen areas avoiding notches status gesture bars."
+  },
+  {
+    "name": "Sans-Serif Fonts",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Clean typefaces without decorative strokes (serifs) at letter ends (e.g., Helvetica, Inter, Roboto). Sans-serifs are the modern standard for UI design, offering clarity and legibility on screens."
+  },
+  {
+    "name": "Satisfaction Metrics",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Post-task ratings CSAT SUS SEQ."
+  },
+  {
+    "name": "SCAMPER",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "A structured creativity framework using seven prompts to generate new ideas by modifying existing products or concepts: Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. SCAMPER provides systematic questions to spark creative thinking."
+  },
+  {
+    "name": "Screen Reader",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Software reading content aloud for visually impaired users (VoiceOver, NVDA, JAWS)."
+  },
+  {
+    "name": "Screen Reader Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Manual testing with NVDA VoiceOver TalkBack."
+  },
+  {
+    "name": "Scroll Depth Tracking",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Percentage users reaching content sections."
+  },
+  {
+    "name": "Search Schema",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Rules defining searchable content, indexing, and ranking."
+  },
+  {
+    "name": "Secondary Navigation",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Supporting navigation for sub-sections, categories, or context-specific links."
+  },
+  {
+    "name": "Semantic HTML",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Meaningful markup (headings, lists, landmarks) aiding assistive technology."
+  },
+  {
+    "name": "Semantic Landmarks",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "ARIA roles identify page regions."
+  },
+  {
+    "name": "SEO-First Content Markup",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Semantic HTML optimized for search engine crawling."
+  },
+  {
+    "name": "Serial Position Effect",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Better recall of first and last items in sequence."
+  },
+  {
+    "name": "Serif Fonts",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Typefaces with small decorative strokes (serifs) extending from the ends of letters. Serifs add formality and tradition to typography and are often used for editorial content or formal applications."
+  },
+  {
+    "name": "Session Duration",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Average time spent per user session."
+  },
+  {
+    "name": "Shake to Undo",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Device shake cancels recent destructive action."
+  },
+  {
+    "name": "Sitemap",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Diagram showing all pages/screens and their relationships."
+  },
+  {
+    "name": "Six Thinking Hats",
+    "category": "ux",
+    "type": "tool",
+    "definition": "De Bono's method using six perspectives for structured thinking."
+  },
+  {
+    "name": "Skeleton Loading State",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Low-fidelity preview content structure while loading."
+  },
+  {
+    "name": "Smoke Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Basic functionality verification immediately post-deploy."
+  },
+  {
+    "name": "Sort Order",
+    "category": "ux",
+    "type": "pattern",
+    "definition": "Default and alternate ordering rules for content lists."
+  },
+  {
+    "name": "Spacing Scale",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Standardized set of spacing values (4px, 8px, 16px multiples) used consistently for margins, padding, and gaps throughout the interface."
+  },
+  {
+    "name": "Speedboat Canvas",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Visual metaphor identifying what slows team or product progress."
+  },
+  {
+    "name": "Sprint Planning Meeting",
+    "category": "management",
+    "type": "methodology",
+    "definition": "2hr commitment planning session."
+  },
+  {
+    "name": "Sprint Review Demo",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Stakeholder showcase working software."
+  },
+  {
+    "name": "Stacked Area Graph",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Filled areas show contribution of parts to cumulative total over time."
+  },
+  {
+    "name": "Stakeholder Interviews",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Structured conversations with internal stakeholders to understand business goals, constraints, requirements, and perspectives. Stakeholder interviews align design work with organizational objectives and surface potential conflicts early."
+  },
+  {
+    "name": "Stakeholder Map",
+    "category": "strategy",
+    "type": "tool",
+    "definition": "Influence interest power prioritization matrix."
+  },
+  {
+    "name": "Starfish Retrospective",
+    "category": "management",
+    "type": "tool",
+    "definition": "Five-category retrospective: keep, more, less, stop, start."
+  },
+  {
+    "name": "Status Bar Behavior",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Top bar shows/hides based on scroll/content needs."
+  },
+  {
+    "name": "Stepper",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Linear multi-step process navigation (Step 1 of 4)."
+  },
+  {
+    "name": "Stickiness Ratio",
+    "category": "ux",
+    "type": "tool",
+    "definition": "DAU/MAU ratio measures daily engagement."
+  },
+  {
+    "name": "Sticky Navigation Bar",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Navigation stays fixed during scroll."
+  },
+  {
+    "name": "Storytelling Arc",
+    "category": "strategy",
+    "type": "pattern",
+    "definition": "Problem solution impact narrative structure."
+  },
+  {
+    "name": "Style Guide",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Comprehensive reference document detailing visual, interaction, and content guidelines for consistent design application."
+  },
+  {
+    "name": "Surveys",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A structured research method using questionnaires to collect quantitative and qualitative data from a large number of respondents. Surveys measure attitudes, behaviors, satisfaction, and demographics across representative samples."
+  },
+  {
+    "name": "SUS Questionnaire",
+    "category": "ux",
+    "type": "tool",
+    "definition": "10-question standardized usability scale benchmark."
+  },
+  {
+    "name": "SUS Score",
+    "category": "ux",
+    "type": "tool",
+    "definition": "10-question standardized usability benchmark 0-100."
+  },
+  {
+    "name": "Tab Bar",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Horizontal tabs switching between related content views (Content 1 | Content 2)."
+  },
+  {
+    "name": "Tagging System",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Descriptive keywords assigned to content for findability."
+  },
+  {
+    "name": "Task Completion Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Success rates time-on-task metrics measurement."
+  },
+  {
+    "name": "Task Flow",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Simplified flow focusing on a single user goal and decision points."
+  },
+  {
+    "name": "Task Success Rate",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Percentage completing tasks without assistance."
+  },
+  {
+    "name": "Taxonomy",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Controlled vocabulary and classification system for content."
+  },
+  {
+    "name": "Team OKR Cascading",
+    "category": "management",
+    "type": "methodology",
+    "definition": "Company → team → individual objective connection."
+  },
+  {
+    "name": "Test Scenario Development",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Realistic user goal-based tasks for testing."
+  },
+  {
+    "name": "Text Alignment",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Positioning of text relative to margins or guides: left-aligned, center-aligned, right-aligned, or justified. Text alignment affects readability, visual flow, and information hierarchy in UI layouts."
+  },
+  {
+    "name": "Text Alternative",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Non-visual descriptions for images/media (alt text, captions)."
+  },
+  {
+    "name": "Text Resizing",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Content readable up to 200% zoom without loss of functionality."
+  },
+  {
+    "name": "Thematic Analysis",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A qualitative research method for identifying, analyzing, and reporting patterns (themes) within data. Thematic analysis systematically organizes and describes research findings by coding data and grouping codes into meaningful themes."
+  },
+  {
+    "name": "Think-Aloud Protocol",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Users verbalize thoughts while completing tasks."
+  },
+  {
+    "name": "Time on Task",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Average completion time standard tasks."
+  },
+  {
+    "name": "Touch Target",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Minimum interactive area size for comfortable finger interaction."
+  },
+  {
+    "name": "Tree Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A usability method that evaluates the findability and labeling of topics in a navigation structure by asking participants to locate items in a text-only hierarchy. Tree testing validates information architecture before visual design."
+  },
+  {
+    "name": "Type Scale",
+    "category": "ui",
+    "type": "tool",
+    "definition": "A system of font sizes based on mathematical ratios (e.g., 1.125, 1.25, 1.618) for consistent sizing across UI elements. Type scale ensures visual hierarchy and coherence without arbitrary font size choices."
+  },
+  {
+    "name": "Typography Baseline",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Imaginary line upon which letters sit, serving as a reference for alignment. Baseline is fundamental for vertical rhythm and text alignment in UI layouts."
+  },
+  {
+    "name": "Typography Contrast",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Difference in weight, size, color, or style between typographic elements. Contrast creates visual interest, guides focus, and establishes hierarchy to improve scannability and user comprehension."
+  },
+  {
+    "name": "Typography Legibility",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Ease of distinguishing individual characters from one another. Legibility depends on font design, size, spacing, and contrast. High legibility is essential for accessible, user-friendly interfaces."
+  },
+  {
+    "name": "Typography Readability",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Ease of reading and comprehending blocks of text. Readability encompasses legibility, line length, line height, color contrast, and overall layout. It measures how comfortably users can consume content."
+  },
+  {
+    "name": "Typography Rhythm",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Consistent vertical flow and spacing created by leading, line height, and baseline grids. Rhythm creates visual harmony, improves scanability, and establishes visual continuity across typography."
+  },
+  {
+    "name": "UI Transition",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Smooth property change between states (color, position, opacity) with duration and easing."
+  },
+  {
+    "name": "Usability Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A research method where representative users attempt realistic tasks with a product or prototype while observers watch, listen, and take notes. Usability testing reveals where users struggle, identifying design problems and opportunities for improvement."
+  },
+  {
+    "name": "Usage Guidelines",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Rules explaining when and how to apply specific design elements correctly."
+  },
+  {
+    "name": "User Flow",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "Ordered sequence of steps a user takes to accomplish a task."
+  },
+  {
+    "name": "User Interviews",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "One-on-one conversations with users to understand their needs, behaviors, motivations, and pain points. User interviews collect qualitative data through open-ended questions and are typically conducted in the early discovery stages or to complement other research methods."
+  },
+  {
+    "name": "UX Style Guide",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Standards for user flows, microcopy, and interaction consistency."
+  },
+  {
+    "name": "Value Proposition Testing",
+    "category": "strategy",
+    "type": "methodology",
+    "definition": "Validate product-market assumptions experiments."
+  },
+  {
+    "name": "Value vs Effort Matrix",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "A 2x2 prioritization framework plotting initiatives based on their expected value to users or business and the effort required to implement. Also called Impact-Effort Matrix, it helps identify quick wins and avoid low-value, high-effort work."
+  },
+  {
+    "name": "Variable Fonts",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Single font file multiple weights widths styles."
+  },
+  {
+    "name": "Version Documentation",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Changelog and migration guides for design system updates."
+  },
+  {
+    "name": "View Transitions API",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Declarative page transition animations."
+  },
+  {
+    "name": "Viewport Meta Tag",
+    "category": "ui",
+    "type": "tool",
+    "definition": "HTML tag controlling mobile zoom scaling behavior."
+  },
+  {
+    "name": "Viral Coefficient",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Average new users per existing user referral."
+  },
+  {
+    "name": "Visual Hierarchy",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Size position color organize content by importance."
+  },
+  {
+    "name": "Visual Hierarchy Priority",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Size position color prioritize most important data elements."
+  },
+  {
+    "name": "Visual Language Guide",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Rules for icons, illustrations, and graphical element usage."
+  },
+  {
+    "name": "Visual Regression Failures",
+    "category": "ui",
+    "type": "methodology",
+    "definition": "Number of visual differences detected between design mockups and implemented components during automated testing."
+  },
+  {
+    "name": "Visual Repetition",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Consistent styling unifying interface and reinforcing visual relationships."
+  },
+  {
+    "name": "Von Restorff Effect",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Unique items remembered better than uniform ones."
+  },
+  {
+    "name": "Wayfinding",
+    "category": "ui",
+    "type": "concept",
+    "definition": "Environmental cues helping users orient and navigate complex information spaces."
+  },
+  {
+    "name": "WCAG",
+    "category": "ui",
+    "type": "framework",
+    "definition": "Web Content Accessibility Guidelines - W3C international standard (A, AA, AAA levels)."
+  },
+  {
+    "name": "WCAG Success Criteria",
+    "category": "ux",
+    "type": "framework",
+    "definition": "Measurable testable accessibility requirements."
+  },
+  {
+    "name": "Wear OS Complications",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Customizable glanceable data watch face."
+  },
+  {
+    "name": "Web Share API",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Native browser sharing interface."
+  },
+  {
+    "name": "Weighted Shortest Job First",
+    "category": "strategy",
+    "type": "framework",
+    "definition": "Cost of Delay ÷ Job Size = priority score."
+  },
+  {
+    "name": "White Space",
+    "category": "ui",
+    "type": "principle",
+    "definition": "Strategic empty areas isolating focal points and creating content separation."
+  },
+  {
+    "name": "Wireframe Specification",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Annotated wireframes with functional and content requirements."
+  },
+  {
+    "name": "Wizard of Oz Testing",
+    "category": "ux",
+    "type": "methodology",
+    "definition": "A testing method where users interact with what appears to be a functioning system, but a human operator manually provides responses behind the scenes. Wizard of Oz testing validates concepts and interactions before building complex functionality."
+  },
+  {
+    "name": "Worst Idea Generation",
+    "category": "ux",
+    "type": "tool",
+    "definition": "Deliberately generate bad ideas then reverse into solutions."
+  },
+  {
+    "name": "XY Scatter Plot",
+    "category": "ui",
+    "type": "tool",
+    "definition": "Points on coordinate plane reveal correlations between two variables."
+  },
+  {
+    "name": "Z-Pattern",
+    "category": "ui",
+    "type": "pattern",
+    "definition": "Simple layout scan path (left→right→left→right) following natural eye movement."
+  },
+  {
+    "name": "Zeigarnik Effect",
+    "category": "ux",
+    "type": "principle",
+    "definition": "Incomplete tasks remembered better than completed."
+  }
+]
